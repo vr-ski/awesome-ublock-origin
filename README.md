@@ -14,6 +14,7 @@ A curated list of resources, tools, filters, and guides to supercharge your expe
 - [Modules & Extensions](#modules--extensions)
 - [Awesome Adblocking Lists](#awesome-adblocking-lists)
 - [Awesome Privacy Lists](#awesome-privacy-lists)
+- [How-To Guides](#how-to-guides)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -24,6 +25,7 @@ A curated list of resources, tools, filters, and guides to supercharge your expe
 - [uBlock Origin GitHub](https://github.com/gorhill/uBlock) – Official repository by Raymond Hill.
 - [Quick Guide: Popup UI](https://github.com/gorhill/ublock/wiki/quick-guide:-popup-user-interface) – Learn how to use the popup interface effectively.
 - [r/uBlockOrigin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/) – Community-driven tips, filters, and troubleshooting.
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) – Official filter lists and assets used by uBlock Origin.
 
 ---
 
@@ -68,6 +70,12 @@ Broaden your privacy toolkit with these excellent resources:
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)
 - [paulaime/awesome-privacy](https://github.com/paulaime/awesome-privacy)
+
+---
+
+## How-To Guides
+
+For setup instructions, filter syntax, and advanced usage, refer to the official documentation and community resources in [guides.md](guides.md).
 
 ---
 
